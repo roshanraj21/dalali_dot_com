@@ -1,0 +1,164 @@
+-----------------------------property-------------------------------------------
+
+
+
+property(Property_Name,Property_Type,Street,City,Landmark,Pincode,Bedroom,Bathroom,Parking_Lot,Year)
+
+
+(501, 'Concorde Houses', 'House', 'G.S. Road', 'Guwahati', 'Near Ganeshguri Flyover', '781005', 3, 3, 'No', 2010, 201, 105),
+(502, 'Prestige Woodland Park', 'Apartment', 'Japorigog', 'Guwahati', 'Near Purnima Hospital', '781006', 2, 2, 'Yes', 2015, 203, 108),
+(503, 'JRC Palladio', 'House', 'Chandmari', 'Guwahati', 'Near Fancy Bazaar', '781003', 4, 3, 'Yes', 2012, 215, 106),
+(504, 'Akruthi Spring Woods', 'Plot', 'Beltola', 'Guwahati', 'Near Super Market', '781028', 0, 0, 'No', 2020, 220, 101),
+(505, 'Mantri Manyata', 'Apartment', 'Six Mile', 'Guwahati', 'Near Ganesh Mandir', '781022', 3, 2, 'Yes', 2018, 208, 104),
+(506, 'M1 Terra', 'House', 'Dispur', 'Guwahati', 'Near Assam Secretariat', '781006', 5, 4, 'Yes', 1990, 202, 103),
+(507, 'Purva Oakshire', 'Apartment', 'Bhangagarh', 'Guwahati', 'Near Satsang Vihar', '781005', 4, 3, 'No', 2019, 211, 105),
+(508, 'Keya Suites', 'House', 'G.S. Road', 'Guwahati', 'Near ABC Bus Stand', '781005', 2, 2, 'Yes', 2022, 204, 109),
+(509, '42 Marquise' ,'House', 'Christian Basti', 'Guwahati', 'Near Café Coffee Day', '781005', 3, 3, 'Yes', 2010, 218, 106),
+(510,'Privilige Green Grooves', 'Apartment', 'Hengerabari', 'Guwahati', 'Near NH-27', '781036', 5, 3, 'No', 2022, 216, 101),
+(511, 'Vaishnavi Serene', 'Apartment', 'Bhetapara', 'Guwahati', 'Near Arya Hospital', '781029', 1, 1, 'No', 2021, 203, 102),
+(512, 'Medhyam Serenity', 'House', 'Uzan Bazar', 'Guwahati', 'Near Railway Station', '781001', 4, 2, 'Yes', 1999, 201, 106),
+(513, 'RBD Meadows', 'House', 'Kahilipara', 'Guwahati', 'Near ISBT', '781019', 4, 4, 'No', 2021, 202, 101),
+(514, 'Candeur Signature', 'Apartment', 'Hatigaon', 'Guwahati', 'Near KFC', '781038', 2, 2, 'Yes', 2000, 206, 109),
+(515, 'Future Espera', 'House', 'Lokhra', 'Guwahati', 'Near Guwahati University', '781034', 3, 3, 'Yes', 1998, 219, 110),
+(516, 'TrendsSquare', 'Apartment', 'Zoo Tinali Road', 'Guwahati', 'Near City Complex', '781029', 2, 2, 'Yes', 2015, 201, 105),
+(517, 'Vaibhav Greens', 'Plot', 'Maligaon', 'Guwahati', 'Near Saraighat Bridge', '781005', 0, 0, 'No', 1980, 203, 110),
+(518, 'Sizzle Midtown', 'House', 'SITM', 'Guwahati', 'On GaroGhuli Road', '781010', 3, 2, 'Yes', 2020, 212, 107),
+(519, 'Brigade Atmosphere', 'House', 'G.S. Road', 'Guwahati', 'Near ISKCON Temple', '781023', 4, 3, 'Yes', 2002, 206, 106),
+(520, 'DSR Highland', 'Apartment', 'J Ali Road', 'Guwahati', 'Near Central Complex', '781011', 2, 1, 'No', 2012, 205, 103),
+(521, 'Nayak Golden Field', 'Plot', 'SC Road', 'Guwahati', 'Near Rocking Garden', '781012', 0, 0, 'No', 2011, 207, 104),
+(522, 'Golden Exotica', 'House', 'Paan Bazar Road', 'Guwahati', 'Near Bramhaputra', '781010', 2, 1, 'Yes', 2019, 203, 110),
+(523, 'Godrej Splendour', 'Apartment', 'FA Road', 'Guwahati', 'Near Kamrup', '781029', 1, 1, 'No', 2016, 209, 108),
+(524, 'MDH Orchid Park', 'House', 'Bongora', 'Guwahati', 'Near MUN Garden', '781005', 5, 3, 'No', 2013, 213, 106),
+(525, 'Purva Promenade' ,'House', 'G.S. Road', 'Guwahati', 'Near Mini Complex', '781011', 3, 2, 'Yes', 2023, 214,107),
+(526, 'Sky Blue', 'Apartment', 'Christian Basti', 'Guwahati', 'Near City Center Mall', 781001, 2, 2, 'Yes', 2015, 211, 109),
+(527, 'Blue Bell Urban Greens', 'Plot', 'Jalukbari Road', 'Guwahati', 'Near Apollo Hospital', 781005, 0, 0, 'No', 2003, 201, 105),
+(528, 'Ranka Countryside', 'House', 'RRR Road', 'Guwahati', 'Near APS School', 781003, 4, 3, 'Yes', 1983, 203, 110),
+(529, 'Assetz Marq', 'Apartment', 'Paltan Bazar', 'Guwahati', 'Near Swing Park', 781002, 3, 2, 'Yes', 2017, 217, 107),
+(530, 'Mahavir Eden Fields', 'Apartment', ' KYQ Kamakhya', 'Guwahati', 'Near Kamkakhya Temple', 781004, 3, 3, 'No', 2021, 205, 101),
+(531, 'DLF Hyde Park-Estate', 'House', 'G.S. Road', 'Guwahati', 'Near DPS School', 781003, 4, 3, 'Yes', 2022, 206, 109),
+(532, 'Guwahati Royale-City', 'House', 'Zoo Road', 'Guwahati', 'Near City Center Mall', 781023, 2, 1, 'Yes', 2023, 203, 110),
+(533, 'Modern Housing Complex', 'House', 'City Complex Road', 'Guwahati', 'Near Army School', 781006, 3, 1, 'Yes', 2023, 203, 110),
+(534, 'Skynet Enclave', 'House', 'Panjavari Road', 'Guwahati', 'Near Shopping Mega Mart', 781013, 5, 3, 'Yes', 2022, 202, 106),
+(535, 'Roseate Homes', 'House', 'G.S. Road', 'Guwahati', 'Near High Court', 781033, 3, 2, 'Yes', 2023, 204, 110),
+(536, 'Stoning Homes', 'House', 'Paltan Bazaar', 'Guwahati', 'Near Fancy Bazaar', 781001, 5, 4, 'Yes', 2010, 204, 109);
+
+-----------------update b_id=NULL through query------------------------------\
+-----------------------------------rent_details----------------------------
+(1001, 8000, NULL, NULL, 'Yes', 105, NULL, 501),
+(1002, 12000, '2023-04-01', '2023-09-30', 'No', 108, 313, 502),
+(1003, 15000, NULL, NULL, 'Yes', 101, NULL, 513),
+(1004, 10000, '2023-03-01', '2023-08-31', 'No', 106, 302, 524),
+(1005, 9000, NULL, NULL, 'Yes', 104, NULL, 505),
+(1006, 11000, '2023-04-01', '2023-09-30', 'No', 105, 311, 516),
+(1007, 13000, NULL, NULL, 'Yes', 102, NULL, 511),
+(1008, 18000, NULL, NULL, 'Yes', 108, NULL, 523),
+(1009, 9500, '2023-06-01', '2023-11-30', 'No', 101, 308, 530),
+(1010, 8500, NULL, NULL, 'Yes', 101, NULL, 510),
+(1011, 15000, NULL, NULL, 'Yes', 107, NULL, 525),
+(1012, 20000, '2023-05-01', '2023-11-30', 'No', 105, 313, 507),
+(1013, 25000, NULL, NULL, 'Yes', 109, NULL, 531),
+(1014, 20000, NULL, NULL, 'Yes', 106, NULL, 534);
+
+--------------------------------sale_details-------------------------
+(2001, 5500000, '2015-02-12', NULL, 'Yes', 104, NULL, 521),
+(2002, 12000000, '2019-11-03', NULL, 'Yes', 110, NULL, 522),
+(2003, 8000000, '2014-06-13', '2022-02-01', 'No', 106, 303, 503),
+(2004, 5500000, '2020-10-09', NULL, 'Yes', 101, NULL, 504),
+(2005, 3300000, '2018-02-22', NULL, 'Yes', 107, NULL, 529),
+(2006, 7000000, '1995-04-23', '1999-02-20', 'No', 103, 301, 506),
+(2007, 5200000,'2005-12-23', NULL, 'Yes', 110, NULL, 517),
+(2008, 6000000,'1983-05-17', '1987-11-05', 'No', 110, 312, 528),
+(2009, 3500000, '2013-11-18', NULL, 'Yes', 106, NULL, 509),
+(2010, 4500000, '2015-12-24', NULL, 'Yes', 103, NULL, 520),
+(2011, 5500000, '2010-04-25', NULL, 'Yes', 109, NULL, 514),
+(2012, 7000000, '1999-11-22', '2003-12-03', 'No', 106, 312, 512),
+(2013, 8500000, '2018-01-03', NULL, 'Yes', 109, NULL, 526),
+(2014, 9000000, '2003-08-07', '2007-04-29', 'No', 105, 304, 527),
+(2015, 5000000, '1998-11-05', '2000-03-09', 'No', 110, 314, 515),
+(2016, 4000000, '2016-11-11', NULL, 'Yes', 109, NULL, 508),
+(2017, 7500000, '2005-05-24', '2011-05-10', 'No', 106, 309, 519),
+(2018, 6000000, '2020-03-12', NULL, 'Yes', 107, NULL, 518),
+(2019, 4500000, '2015-05-24', '2023-05-10', 'No', 110, 309, 532),
+(2020, 4300000, '2018-05-24', '2023-09-20', 'No', 110, 311, 533),
+(2021, 4900000, '2016-11-14', '2018-07-30', 'No', 110, 314, 535),
+(2022, 5500000, '2015-05-25', '2018-12-12', 'No', 109, 306, 536);
+
+
+
+----------------------------------agent-------------------------------------------
+INSERT INTO Agent (a_id, Fname, Lname, Contact_number, Email,Password,C_Rate) 
+VALUES 
+    (101, 'Rajesh', 'Kumar', '9876543210', 'rajesh.kumar@gmail.com','Rajesh123',8.5),
+    (102, 'Priya', 'Singh', '8765432109', 'priya.singh@gmail.com','Priya123',7.8),
+    (103, 'Amit', 'Sharma', '7654321098', 'amit.sharma@gmail.com','Amit123',6.1),
+    (104, 'Swati', 'Gupta', '6543210987', 'swati.gupta@gmail.com','Swati123',9.9),
+    (105, 'Rahul', 'Verma', '5432109876', 'rahul.verma@gmail.com','Rahul123',8.2),
+    (106, 'Neha', 'Shah', '4321098765', 'neha.shah@gmail.com','Neha123',7.5),
+    (107, 'Suresh', 'Jain', '3210987654', 'suresh.jain@gmail.com','Suresh123',9.3),
+    (108, 'Geeta', 'Patel', '2109876543', 'geeta.patel@gmail.com','Geeta123',8.7),
+    (109, 'Vikram', 'Choudhary', '1098765432', 'vikram.choudhary@gmail.com','Vikram123',9.6),
+    (110, 'Mehul', 'Desai', '9876543211', 'mehul.desai@gmail.com','Mehul123',7.9);
+
+
+    (101,'Rajesh123',8.5),
+    (102, 'Priya123',7.8),
+    (103, 'Amit123',6.1),
+    (104, 'Swati123',9.9),
+    (105, 'Rahul123',8.2),
+    (106, 'Neha123',7.5),
+    (107, 'Suresh123',9.3),
+    (108, 'Geeta123',8.7),
+    (109, 'Vikram123',9.6),
+    (110, 'Mehul123',7.8);
+
+
+---------------------------------buyers--------------------------------
+INSERT INTO buyers (b_id, Fname, Lname, Contact_Number , Email, DOB, Sex)
+VALUES
+(301, 'Akshay', 'Kumar', '9812345670', 'akshay.kumar@gmail.com', '2001-06-15', 'Male'),
+(302, 'Amitabh', 'Bachchan', '9898765432', 'amitabh.bachchan@gmail.com', '2002-08-08', 'Male'),
+(303, 'Priyanka', 'Chopra', '9876543210', 'priyanka.chopra@gmail.com', '2003-12-18', 'Female'),
+(304, 'Shahrukh', 'Khan', '9823456789', 'shahrukh.khan@gmail.com', '2004-02-25', 'Male'),
+(305, 'Deepika', 'Padukone', '9876543201', 'deepika.padukone@gmail.com', '2005-11-12', 'Female'),
+(306, 'Salman', 'Khan', '9823678901', 'salman.khan@gmail.com', '2006-09-28', 'Male'),
+(307, 'Kareena', 'Kapoor', '9812345678', 'kareena.kapoor@gmail.com', '2007-05-16', 'Female'),
+(308, 'Hrithik', 'Roshan', '9812345679', 'hrithik.roshan@gmail.com', '2008-01-10', 'Male'),
+(309, 'Anushka', 'Sharma', '9876543211', 'anushka.sharma@gmail.com', '2009-10-18', 'Female'),
+(310, 'Ranveer', 'Singh', '9823456781', 'ranveer.singh@gmail.com', '2010-06-23', 'Male'),
+(311, 'Katrina', 'Kaif', '9876543202', 'katrina.kaif@gmail.com', '2011-09-22', 'Female'),
+(312, 'Varun', 'Dhawan', '9823678902', 'varun.dhawan@gmail.com', '2012-03-07', 'Male'),
+(313, 'Alia', 'Bhatt', '9812345671', 'alia.bhatt@gmail.com', '2013-07-07', 'Female'),
+(314, 'Rajkummar', 'Rao', '9812345672', 'rajkummar.rao@gmail.com', '2014-05-20', 'Male'),
+(315, 'Kiara', 'Advani', '9876543212', 'kiara.advani@gmail.com', '2015-11-26', 'Female');
+
+
+
+------------------------------------owner-----------------------------------------
+INSERT INTO owner (o_id, Fname, Lname, Email, Sex, Verification_id, Contact_Number)
+VALUES
+(201, 'Raj', 'Gupta', 'rajgupta@gmail.com', 'M', '123456789012', '9876543210'),
+(202, 'Amit', 'Singh', 'amitsingh@gmail.com', 'M', '234567890123', '8765432109'),
+(203, 'Priya', 'Sharma', 'priyasharma@gmail.com', 'F', '345678901234', '7654321098'),
+(204, 'Aakash', 'Goyal', 'aakashgoyal@gmail.com', 'M', '456789012345', '6543210987'),
+(205, 'Sneha', 'Kapoor', 'snehakapoor@gmail.com', 'F', '567890123456', '5432109876'),
+(206, 'Vikram', 'Verma', 'vikramverma@gmail.com', 'M', '678901234567', '4321098765'),
+(207, 'Neha', 'Malik', 'nehmalik@gmail.com', 'F', '789012345678', '3210987654'),
+(208, 'Aryan', 'Chopra', 'aryanchopra@gmail.com', 'M', '890123456789', '2109876543'),
+(209, 'Riya', 'Gandhi', 'riyagandhi@gmail.com', 'F', '901234567890', '1098765432'),
+(210, 'Rahul', 'Kumar', 'rahulkumar@gmail.com', 'M', '123490876543', '9876543211'),
+(211, 'Anjali', 'Singh', 'anjalisingh@gmail.com', 'F', '234501987654', '8765432101'),
+(212, 'Pranav', 'Sinha', 'pranavsinha@gmail.com', 'M', '345612876543', '7654321099'),
+(213, 'Vishakha', 'Mishra', 'vishakhamishra@gmail.com', 'F', '456723765432', '6543210988'),
+(214, 'Shivam', 'Yadav', 'shivamyadav@gmail.com', 'M', '567834654321', '5432109877'),
+(215, 'Kriti', 'Saxena', 'kritisaxena@gmail.com', 'F', '678945543210', '4321098766'),
+(216, 'Gaurav', 'Jain', 'gauravjain@gmail.com', 'M', '789056432109', '3210987655'),
+(217, 'Tanvi', 'Rajput', 'tanvirajput@gmail.com', 'F', '890167890123', '2109876544'),
+(218, 'Ravi', 'Shukla', 'ravishukla@gmail.com', 'M', '901278901234', '1098765433'),
+(219, 'Aarav', 'Choudhary', 'aaravchoudhary@gmail.com', 'M', '123498765432', '9876543212'),
+(220, 'Nisha', 'Sinha', 'nishasinha@gmail.com', 'F', '234501654345', '9876545672');
+
+
+
+
+
+
